@@ -1,4 +1,4 @@
----
+e-t-l:patch-1---
 manufacturer:
     - huawei
 
